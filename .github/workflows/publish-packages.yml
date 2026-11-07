@@ -51,7 +51,7 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - uses: pnpm/action-setup@4f4305e1fe60ad818b8ae6fc4a697cc47eab0b2d # v6
+      - uses: pnpm/action-setup@5eea8caf49c844361c1e9ddc1324e179c54b58e9 # v6
         with:
           version: 10.33.0
 
